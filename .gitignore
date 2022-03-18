@@ -1,0 +1,11 @@
+*__pycache__ 
+backup  
+.cache 
+data.json 
+logfile.txt 
+my_played_tracks.sqlite 
+new.py 
+recent_tracks.py 
+spotify_test.py 
+spotify.py 
+teste.py 
