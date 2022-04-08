@@ -2,10 +2,13 @@
 backup  
 .cache 
 data.json 
-logfile.txt 
+logfile.txt
+logfile_1.txt 
 my_played_tracks.sqlite 
 new.py 
 recent_tracks.py 
 spotify_test.py 
 spotify.py 
 teste.py 
+.env
+queries.sql 
